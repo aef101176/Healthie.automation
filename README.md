@@ -1,3 +1,6 @@
+#Description
+Basic test framework. Tested Login functionality.
+
 # Test suite:
 Test automation framework: Selenium, (Mobile) Appium, Language: Java, Unit Testing framework: JUnit, IDE: IntelliJ
 
