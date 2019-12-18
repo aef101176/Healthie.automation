@@ -10,7 +10,11 @@ IDE: IntelliJ
 ```
 
 # File Structure:
-Utilities: fixtures, config files, helpers can go here. Src: Holds POM packages and files. TestScripts: Holds Test Cases.
+```
+Utilities: fixtures, config files, helpers can go here. 
+Src: Holds POM packages and files. 
+TestScripts: Holds Test Cases.
+```
 # ----------------------------------------------------------
 # Test Scenario: 
 Check login functionality
