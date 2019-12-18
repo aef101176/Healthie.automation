@@ -40,7 +40,7 @@ Feature: Login functionality
       I want to login with an email and a password
 
 Scenario: I login with valid credentials
-   Given I am on the login pager
+   Given I am on the login page
       When I fill in the email textbox with value '<correct email>'
            And I fill in the password textbox with value '<correct password>' 
            And I click the log In button
