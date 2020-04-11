@@ -1,11 +1,15 @@
 # Description
 Basic test framework. Tested Login functionality.
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 # Test Tools:
 ```
 Test automation framework: Selenium, (Mobile) Appium 
 Language: Java 
-Markup : * Bullet list
 Unit Testing framework: JUnit 
 IDE: IntelliJ
 ```
