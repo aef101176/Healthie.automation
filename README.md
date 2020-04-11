@@ -5,6 +5,7 @@ Basic test framework. Tested Login functionality.
 ```
 Test automation framework: Selenium, (Mobile) Appium 
 Language: Java 
+Markup : * Bullet list
 Unit Testing framework: JUnit 
 IDE: IntelliJ
 ```
